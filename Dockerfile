@@ -1,4 +1,4 @@
-FROM robertbrem/payara-configured
+FROM robertbrem/payara
 
 MAINTAINER Robert Brem <brem_robert@hotmail.com>
 
