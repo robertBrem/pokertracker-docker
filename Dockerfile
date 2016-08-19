@@ -14,3 +14,5 @@ WORKDIR /opt/jboss/wildfly/standalone/configuration/
 ADD standalone.xml .
 
 ADD pokertracker.war ${DEPLOYMENT_DIR}
+
+USER root
